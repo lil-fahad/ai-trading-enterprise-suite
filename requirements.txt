@@ -6,3 +6,4 @@ matplotlib
 numpy
 openai
 requests
+joblib==1.3.2
